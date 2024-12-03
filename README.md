@@ -20,7 +20,7 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 - **Programming Languages:** Python 🐍 | R 📊 | C/C++ 🖥️ | Java ☕ | JavaScript 🌐 | Bash/Shell 💻  
 - **Data Analytics:** Pandas | Polars | NumPy | SQL 🛢️
 - **Machine Learning Frameworks:** TensorFlow 🧠 | PyTorch 🔥 | Scikit-learn 📈  
-- **Data Visualization:** Matplotlib 📊 | Seaborn 🌟 | ggplot2  
+- **Data Visualization:** Matplotlib 📊 | ggplot2  
 - **Bioinformatics Tools:** Pymol 🔬 | Biopython 🧬 | Galaxy 🛰️ | BLAST 🧪 | Clustal Omega 🔗 
 - **Web Development:** HTML/CSS 🌐 | Shiny (R) 💡  
 - **Others:** Git/GitHub 🌱 | LaTeX 📝 
