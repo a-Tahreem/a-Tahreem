@@ -29,7 +29,9 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 
 ## Current Projects 🔭
 
-### Featured Projects
+ **Internship: Automated Data Extraction and Analysis**  
+   Developed a pipeline to extract and analyze structural motifs using web scraping, API integration, and Biopython.
+   
 1. **[Data Analysis in Crime Research](https://github.com/InesUser/AnalyseVictimesCrimes)**  
    Developing an R Shiny application to analyze crime data trends, correlations, and insights.
 
@@ -42,8 +44,6 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 4. **Smith-Waterman Algorithm (C)**  
    Implemented a local alignment algorithm to identify similarities in biological sequences.
 
-6. **Internship: Automated Data Extraction and Analysis**  
-   Developed a pipeline to extract and analyze structural motifs using web scraping, API integration, and Biopython.
 
 ---
 
