@@ -27,7 +27,7 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 
 ---
 
-## Current Projects 🔭
+## Featured Projects 🔭
 
 **Internship: Automated Data Extraction and Analysis**  
    Developed a pipeline to extract and analyze structural motifs using web scraping, API integration, and Biopython.
