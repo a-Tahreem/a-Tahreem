@@ -38,12 +38,11 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 2. **[Deep Learning Models](https://github.com/a-Tahreem/Neural-Networks)** 
    Exploring deep and shallow learning architectures applied to biological datasets for predictive analysis.
 
-4. **[Back-End and Database for a Musical Social Network**  
+4. **[Back-End and Database for a Musical Social Network](https://github.com/a-Tahreem/Tune-Pulse)**   
    Designed a normalized relational database, optimized queries, and automated data generation.
 
-5. **Smith-Waterman Algorithm (C)**  
+5. **[Smith-Waterman Algorithm](https://github.com/a-Tahreem/Smith-Waterman)**   
    Implemented a local alignment algorithm to identify similarities in biological sequences.
-
 
 ---
 
