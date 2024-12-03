@@ -32,7 +32,7 @@ Here are some of the languages, frameworks, and tools I specialize in or current
  **Internship: Automated Data Extraction and Analysis**  
    Developed a pipeline to extract and analyze structural motifs using web scraping, API integration, and Biopython.
    
-1. **[Data Analysis in Crime Research](https://github.com/InesUser/AnalyseVictimesCrimes)**  
+1. **[Data Analysis in Crime Research](https://github.com/a-Tahreem/AnalyseVictimesCrimes)**  
    Developing an R Shiny application to analyze crime data trends, correlations, and insights.
 
 2. **Deep Learning Models (Python)**  
