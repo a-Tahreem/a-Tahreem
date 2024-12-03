@@ -35,13 +35,13 @@ Here are some of the languages, frameworks, and tools I specialize in or current
 1. **[Data Analysis in Crime Research](https://github.com/a-Tahreem/Crime-Data-Insights)**  
    Developing an R Shiny application to analyze crime data trends, correlations, and insights.
 
-2. **Deep Learning Models (Python)**  
+2. **[Deep Learning Models](https://github.com/a-Tahreem/Neural-Networks)** 
    Exploring deep and shallow learning architectures applied to biological datasets for predictive analysis.
 
-3. **Back-End and Database for a Musical Social Network (SQL)**  
+4. **[Back-End and Database for a Musical Social Network**  
    Designed a normalized relational database, optimized queries, and automated data generation.
 
-4. **Smith-Waterman Algorithm (C)**  
+5. **Smith-Waterman Algorithm (C)**  
    Implemented a local alignment algorithm to identify similarities in biological sequences.
 
 
